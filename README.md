@@ -10,7 +10,7 @@ source [DIR_NAME]/bin/activate,
 cd [DIR_NAME]
 
 # Clone this project into [DIR_NAME]
-git clone https://github.com/tonyjoy1992/flask_file_read.git
+git clone https://github.com/tonyjoy1992/flask_file_read.git \n
 cd flask_file_read/
 
 # Install dependencies

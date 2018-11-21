@@ -5,12 +5,14 @@ Sample flask project to read text files and return it in JSON format.
 Install virtualenv
 
 # Create virtual environment
-virtualenv -p python [DIR_NAME], 
-source [DIR_NAME]/bin/activate, 
+virtualenv -p python [DIR_NAME]. 
+source [DIR_NAME]/bin/activate.
 cd [DIR_NAME]
 
 # Clone this project into [DIR_NAME]
-git clone https://github.com/tonyjoy1992/flask_file_read.git \n
+git clone https://github.com/tonyjoy1992/flask_file_read.git 
+
+# Go to app folder
 cd flask_file_read/
 
 # Install dependencies
